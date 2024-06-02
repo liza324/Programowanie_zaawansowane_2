@@ -1,0 +1,12 @@
+C:\Users\golub\source\repos\ProgramowanieZaawansowane2\ProductProcessingApp\ProductProcessing\bin\Debug\net6.0\ProductProcessing.deps.json
+C:\Users\golub\source\repos\ProgramowanieZaawansowane2\ProductProcessingApp\ProductProcessing\bin\Debug\net6.0\ProductProcessing.dll
+C:\Users\golub\source\repos\ProgramowanieZaawansowane2\ProductProcessingApp\ProductProcessing\bin\Debug\net6.0\ProductProcessing.pdb
+C:\Users\golub\source\repos\ProgramowanieZaawansowane2\ProductProcessingApp\ProductProcessing\obj\Debug\net6.0\ProductProcessing.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\ProgramowanieZaawansowane2\ProductProcessingApp\ProductProcessing\obj\Debug\net6.0\ProductProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golub\source\repos\ProgramowanieZaawansowane2\ProductProcessingApp\ProductProcessing\obj\Debug\net6.0\ProductProcessing.AssemblyInfoInputs.cache
+C:\Users\golub\source\repos\ProgramowanieZaawansowane2\ProductProcessingApp\ProductProcessing\obj\Debug\net6.0\ProductProcessing.AssemblyInfo.cs
+C:\Users\golub\source\repos\ProgramowanieZaawansowane2\ProductProcessingApp\ProductProcessing\obj\Debug\net6.0\ProductProcessing.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\ProgramowanieZaawansowane2\ProductProcessingApp\ProductProcessing\obj\Debug\net6.0\ProductProcessing.dll
+C:\Users\golub\source\repos\ProgramowanieZaawansowane2\ProductProcessingApp\ProductProcessing\obj\Debug\net6.0\refint\ProductProcessing.dll
+C:\Users\golub\source\repos\ProgramowanieZaawansowane2\ProductProcessingApp\ProductProcessing\obj\Debug\net6.0\ProductProcessing.pdb
+C:\Users\golub\source\repos\ProgramowanieZaawansowane2\ProductProcessingApp\ProductProcessing\obj\Debug\net6.0\ref\ProductProcessing.dll

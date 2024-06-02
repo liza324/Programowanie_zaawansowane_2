@@ -1,0 +1,12 @@
+C:\Users\golub\source\repos\Kalkulator\src\Kalkulator\bin\Debug\net6.0\Kalkulator.deps.json
+C:\Users\golub\source\repos\Kalkulator\src\Kalkulator\bin\Debug\net6.0\Kalkulator.dll
+C:\Users\golub\source\repos\Kalkulator\src\Kalkulator\bin\Debug\net6.0\Kalkulator.pdb
+C:\Users\golub\source\repos\Kalkulator\src\Kalkulator\obj\Debug\net6.0\Kalkulator.csproj.AssemblyReference.cache
+C:\Users\golub\source\repos\Kalkulator\src\Kalkulator\obj\Debug\net6.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golub\source\repos\Kalkulator\src\Kalkulator\obj\Debug\net6.0\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\golub\source\repos\Kalkulator\src\Kalkulator\obj\Debug\net6.0\Kalkulator.AssemblyInfo.cs
+C:\Users\golub\source\repos\Kalkulator\src\Kalkulator\obj\Debug\net6.0\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\golub\source\repos\Kalkulator\src\Kalkulator\obj\Debug\net6.0\Kalkulator.dll
+C:\Users\golub\source\repos\Kalkulator\src\Kalkulator\obj\Debug\net6.0\refint\Kalkulator.dll
+C:\Users\golub\source\repos\Kalkulator\src\Kalkulator\obj\Debug\net6.0\Kalkulator.pdb
+C:\Users\golub\source\repos\Kalkulator\src\Kalkulator\obj\Debug\net6.0\ref\Kalkulator.dll
